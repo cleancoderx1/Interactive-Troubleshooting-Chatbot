@@ -1,0 +1,10 @@
+{
+  "os": [
+    { "prompt": "1️⃣ Is your device powered on? (yes/no)" },
+    { "prompt": "2️⃣ Are you seeing the Windows login screen? (yes/no)" }
+  ],
+  "network": [
+    { "prompt": "1️⃣ Can you ping 8.8.8.8? (yes/no)" },
+    { "prompt": "2️⃣ Can you resolve google.com? (yes/no)" }
+  ]
+}
